@@ -152,8 +152,7 @@ int main(int argc, char *argv[])
 		default:
 		{
 			printf("use:\n");
-			printf("   xex2cas file.xex filsecas\n");
-			printf("   xex2cas file.xex file.cas\n");		
+			printf("   xex2cas file.xex filsecas\n");	
 		} break;
 	};
 	return 0;
